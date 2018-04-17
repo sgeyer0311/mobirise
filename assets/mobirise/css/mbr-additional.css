@@ -2203,6 +2203,9 @@ body {
 .cid-qPe5mRRnBn H1 {
   text-align: left;
 }
+.cid-qPe5mRRnBn P {
+  text-align: left;
+}
 .cid-qP2tk7jpUE .navbar {
   background: #ffffff;
   transition: none;
@@ -4384,7 +4387,7 @@ body {
 }
 .cid-qPv3CRR4aC {
   padding-top: 105px;
-  padding-bottom: 120px;
+  padding-bottom: 45px;
   background-image: url("../../../assets/images/mbr-1920x1078.jpg");
 }
 .cid-qPv3CRR4aC .mbr-figure {
